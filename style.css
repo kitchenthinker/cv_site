@@ -1,0 +1,20 @@
+body {
+    background-color: #F6A9A9;
+}
+
+hr {
+    width : 20%;
+    align: center;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color : #FFBF86;
+}
+
+img {
+    width: 30%;
+    border-radius: 30%;
+}
+
+h1, h3 {
+    color: #FFF47D;
+}
